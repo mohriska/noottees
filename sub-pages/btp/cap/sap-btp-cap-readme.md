@@ -23,7 +23,7 @@ What is CAPM: Lib + Language + Tools + Framework
 
 | Topic                                                  | Description               |
 |--------------------------------------------------------|---------------------------|
-| [Setup](#Setup)                                        | Setup CAPM Env            |
+| [Setup](./sub/sap-btp-cap-setup.md )                               | Setup CAPM Env            |
 | [Project](#CAPM_Project)                               | Set CAPM Project          |
 | [CDS](#CAPM_CDS)                                       | CAPM CDS                  |
 | [Associatiion & composition](#Association_Composition) | Association & Composition |
@@ -33,37 +33,6 @@ What is CAPM: Lib + Language + Tools + Framework
 
 -----
 
-## Setup
-
-[<- Back to Content](#content)
-
-
-- Windows requires you to install SQLite
-    - Create a folder called ```C:\sqlite``` and unzipe the contents of the download to this folder
-    - Run sqlite3.exe within this folder
-    - Add SQLite to your PATh Environment Variable (see http://s-prs.co/v560611)
-    - then it is possible to run SQLite anywhere with command: sqlite3
-- MACOSX
-    - XCode installed & XCode CLI
-        - in terminal run ```xcode-select --install```
-    - Cloud Foundry cli
-        - installer is in GitHub repository
-        - if you have brew: ```brew install cloudfoundry/tap/cf-cli```
-        - validate by: cf --version
-    - @ui5/cli
-        - install @ui5/cli by: ```npm install --global @ui5/cli```
-        - verify: ```ui5 --version```
-    - UI5 tooling
-        - install by: ```npm install --global @sap/ux-ui5-tooling```
-    - Yeoman
-        - install Yeoman by: ```npm i --global yo```
-        - verify by: ```yo --version```
-    - CDS Dev Kit
-        - if you already have it installed, remove it first
-        - install by: ```npm install --global @sap/cds-dk```
-        - verify by: ```cds --version```
-    - VSCode + Extensions
-        - install extension: SAP CDS Language Support
 
 
 ### Deployment Dependencies
@@ -411,7 +380,8 @@ Select from Products {price+100 as NewPrice : Decimal};
 ## Reference:
 
 [<- Back to Content](#content)
-
+- [cloud-cap-samples](https://github.com/SAP-samples/cloud-cap-samples/tree/main)
+- [GitHUb - SAP Cloud Application Programming Model](https://github.com/cap-js)
 - [Sending Notifications from SAP BTP Applications to the SAP Fiori Launchpad](https://www.youtube.com/watch?v=PZPp1gyLLQo)
 - [Create Freestyle Fiori App on CAPM BTP SAP Fiori App development on Business application studio BAS](https://www.youtube.com/watch?v=vxoZlkZ-gCM)
 - [Create a SAP Fiori App using OData and Deploy it to SAP BTP](https://www.youtube.com/watch?v=9kdldvuBF9k)
@@ -474,10 +444,38 @@ Select from Products {price+100 as NewPrice : Decimal};
 - [Build an SAP Fiori App that Consumes Data from an On-Premise System](https://developers.sap.com/group.appstudio-fiori.html)
 - [Create OData Entities with the SAP Cloud SDK's Virtual Data Model](https://developers.sap.com/tutorials/cloudsdk-js-vdm-create.html)
 - [SAP Tech Bytes: FAQ Managed Approuter vs. Standalone Approuter](https://blogs.sap.com/2021/05/17/sap-tech-bytes-faq-managed-approuter-vs.-standalone-approuter/)
+- [Capire repo GitHub](https://github.com/cap-js/docs)
 
+- [Welcome to the CAP SFLIGHT App](https://github.com/SAP-samples/cap-sflight)
 
+- [Service integration with SAP Cloud Application Programming Model](https://github.com/SAP-samples/cap-service-integration-codejam)
 
+- [SAP Business Technology Platform Showcase: Access SAP HANA Cloud Database Underneath SAP Data Warehouse Cloud](https://github.com/SAP-samples/btp-showcase-actuals-cap)
 
+- [cloud-sf-extension-cap-sample](https://github.com/SAP-samples/cloud-sf-extension-cap-sample)
+
+- [Create Automated System Tests for SAP Cloud Application Programming Model Projects](https://developers.sap.com/tutorials/cicd-wdi5-cap.html)
+
+- [teched2020-DEV164](https://github.com/SAP-archive/teched2020-DEV164)
+- [Contributions to the SAPUI5 Documentation](https://github.com/SAP-docs/sapui5)
+
+- [Automated System Tests for CAP-Based Projects](https://github.com/SAP-samples/cap-bookshop-wdi5)
+
+- [SAP BTP Developer's Guide](https://github.com/SAP-samples/btp-developer-guide-cap)
+
+- [btp-cap-multitenant-saas](https://github.com/SAP-samples/btp-cap-multitenant-saas)
+
+- [sap-cap-examples](https://github.com/sebastianesch/sap-cap-examples)
+
+- [ui5-typescript](https://github.com/SAP/ui5-typescript)
+
+- [UI5 Language Assistant](https://github.com/SAP/ui5-language-assistant)
+
+- [openSAP-ui5-course](https://github.com/SAP/openSAP-ui5-course)
+
+- [sapui5bin](https://github.com/qmacro/sapui5bin)
+
+- [SAPUI5-Fiori](https://github.com/qmacro/SAPUI5-Fiori)
 
 
 
