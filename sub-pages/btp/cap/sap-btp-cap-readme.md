@@ -26,7 +26,7 @@ What is CAPM: Lib + Language + Tools + Framework
 | [Setup](./sub/sap-btp-cap-setup.md )                               | Setup CAPM Env            |
 | [Project](#CAPM_Project)                               | Set CAPM Project          |
 | [CDS](#CAPM_CDS)                                       | CAPM CDS                  |
-| [Associatiion & composition](#Association_Composition) | Association & Composition |
+| [Association & composition](#Association_Composition) | Association & Composition |
 | [Query](#Query)                                        | CAPM Query                |
 | [References](#Reference)                               | URL References            |
 
