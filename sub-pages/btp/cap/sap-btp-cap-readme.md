@@ -3,6 +3,19 @@
 
 What is CAPM: Lib + Language + Tools + Framework
 
+App(s) in Cloud: 
+- UI
+- Service
+- Backend  (CDS, Annotations)
+
+General Rule: 
+* Declarative Approach (functional side of app)
+* Service Based Approach 
+* Services are stateless in CAPm
+
+// final code> GitHub> ajaytech / capmlevel1final
+
+
 - CAPM is a generic runtime that hooks CDS and allow developers to extend and customize through Express or Spring
 - CAPM is domain-driven design
     - some principles of domain-driven design

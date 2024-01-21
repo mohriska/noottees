@@ -29,3 +29,34 @@
         - verify by: ```cds --version```
     - VSCode + Extensions
         - install extension: SAP CDS Language Support
+
+
+## Setup CAP
+
+```
+// check cds-dk in USER
+npm ls -g --depth=0
+
+// check if you have access sap npm libraries/packages
+npm config list 
+
+// if not, then:
+npm set @sap:registry=https://npm.sap.com
+npm search --registry https://npm.sap.com sap
+
+// install sap cds packages
+npm i -g @sap/cds-dk
+cds help
+
+
+// sqlite3
+npm i sqlite3
+
+```
+
+
+
+## Run
+```
+cds run --in-memory // in the package.json 
+```

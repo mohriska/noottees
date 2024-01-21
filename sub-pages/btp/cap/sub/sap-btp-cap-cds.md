@@ -274,7 +274,7 @@ SELECT from SalesInvoice[ID=1].Products;
 ### Some CDS Commands
 * cds help
 * cds init
-* cds deploy
+* cds deploy 
     * cds deploy --to hana
     * cds deploy --to sqlite
     * cds deploy --to sqlite:db/book-service.db
@@ -284,4 +284,6 @@ SELECT from SalesInvoice[ID=1].Products;
     * cds compile products.cds --to sql
     * cds compile products.cds --to hana
     * cds compile products.cds --to yaml
+    * cds compile schema.cds -2 sql
+    * cds compile schema.cds -2 edmx
 * cds watch
