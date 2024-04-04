@@ -1,41 +1,7 @@
 # Cloud Foundry
 
 
-## Cloud Application Delivery Models
-
-* Alternatives: OpenShift, Azure WebSite, ...
-* Build and deploy application
-* Why?
-    - the new "middleware for the cloud era" 
-    - Application-centric
-    - Faster time to market
-    - DevOps-friendly
-    - Different runtimes, same policies
-* 
-
-
-**Notes:example**
-
-```
-// install NodeJS, 
-// CF CLI
-// Pivotal.io
-// push app
-
-
-
-```
-----
-
-## Deploying an Application
-
-## Designing for PaaS
-
-## About Cloud Foundry
-
-## What about Containers
-
-## Reference Architecture
+## Table of Contents
 
 
 ### References
