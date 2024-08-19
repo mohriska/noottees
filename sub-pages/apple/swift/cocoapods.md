@@ -89,3 +89,4 @@ Change UILabel in code:
 1. Reverse everything in Project
 2. delete pod line in you **pod file**
 3. go to terminal and run **pod install**
+

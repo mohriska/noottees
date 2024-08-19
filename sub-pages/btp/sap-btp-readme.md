@@ -14,3 +14,8 @@
 
 * [standalone vs managed](https://community.sap.com/t5/technology-blogs-by-sap/sap-tech-bytes-faq-managed-approuter-vs-standalone-approuter/ba-p/13496019)
 
+* [SAP BTP Security: How to use REST API of XSUAA to programmatically manage security artifacts](https://community.sap.com/t5/technology-blogs-by-sap/sap-btp-security-how-to-use-rest-api-of-xsuaa-to-programmatically-manage/ba-p/13540720)
+
+
+* [Getting User Information in BTP Launchpad](https://community.sap.com/t5/technology-blogs-by-members/getting-user-information-in-btp-launchpad/ba-p/13513617)
+
