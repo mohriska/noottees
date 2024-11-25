@@ -11,6 +11,23 @@ In the verify API key policy, you can define where this API key needs to be stor
 
 
 
+
+
+```
+<VerifyAPIKey async='true' continueOnError='false' enabled='true' 
+xmlns='http://www.sap.com/apimgmt'>
+	<APIKey ref='request.header.apikey'/>
+</VerifyAPIKey>
+```
+
+
+```
+<VerifyAPIKey async='true' continueOnError='false' enabled='true' 
+xmlns='http://www.sap.com/apimgmt'>
+	<APIKey ref='request.queryparam.apikey'/>
+</VerifyAPIKey>
+```
+
 ### References
 
 * [Verify API Key](https://help.sap.com/docs/sap-api-management/sap-api-management/verify-api-key?version=Cloud)

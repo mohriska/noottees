@@ -1,5 +1,7 @@
 # SAP API  Management
 
+![apim-diagram](./images/API-Managed-Integration_diagram.png)
+
 ## Content
 
 * [Introduction & SAP API Management at a Glance](../API%20Management/sub-pages/apim-introduction.md)
