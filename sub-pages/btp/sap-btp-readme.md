@@ -19,3 +19,4 @@
 
 * [Getting User Information in BTP Launchpad](https://community.sap.com/t5/technology-blogs-by-members/getting-user-information-in-btp-launchpad/ba-p/13513617)
 
+* [Start Developing in SAP BTP](https://developers.sap.com/mission.scp-1-start-developing.html)
