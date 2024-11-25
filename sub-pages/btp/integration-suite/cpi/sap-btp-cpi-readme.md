@@ -9,3 +9,5 @@
 * [Connecting and Exposing API Endpoint from SAP Cloud Integration-(Part 1) || Pre-requisites and Configuration](https://blogs.sap.com/2023/09/20/connecting-and-exposing-api-endpoint-from-sap-cloud-integration-part-1-everything-you-need-to-know-a-step-by-step-guide-pre-requisites-and-configuration/)
 
 * [Connecting and Exposing API Endpoint from SAP Cloud Integration-(Part 2) || Connect, Expose & Test API Endpoint](https://blogs.sap.com/2023/09/20/connecting-and-exposing-api-endpoint-from-sap-cloud-integration-part-2-connect-expose-test-api-endpoint/)
+
+* [API Policies](https://learning.sap.com/learning-journeys/developing-with-sap-integration-suite/using-policies_cd5fde51-b3d2-40d3-bd71-3f2870c2b51b)
