@@ -15,8 +15,8 @@
 * API Program
 * Recent & Future Developments
 
-
-
+## News: 
+The API business hub enterprise has been relaunched as Developer Hub with upgraded features. In addition to providing a central, managed, and curated catalog of APIs for developers, the Developer Hub now allows content administrators to discover APIs from various business systems and publish them as products in the catalog. These new features will enhance the experience for both developers and content administrators. See [Manage Content](https://help.sap.com/docs/integration-suite/sap-integration-suite/manage-content).
 
 
 

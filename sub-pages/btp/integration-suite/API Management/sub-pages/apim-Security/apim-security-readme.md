@@ -34,3 +34,4 @@ There are many security considerations when utilizing APIs. With SAP API Managem
 
 * [Secure On-Premise API using SAP API Management in SAP Integration Suite](https://community.sap.com/t5/technology-blogs-by-members/secure-on-premise-api-using-sap-api-management-in-sap-integration-suite/ba-p/13524781)
 
+* [Part 1 - Introduction to API Management](https://community.sap.com/t5/technology-blogs-by-sap/part-1-introduction-to-api-management/ba-p/13298349)
