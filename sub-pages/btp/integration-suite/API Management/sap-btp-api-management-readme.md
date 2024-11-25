@@ -35,3 +35,4 @@ The API business hub enterprise has been relaunched as Developer Hub with upgrad
 * [Accessing On-Premise Systems through API Management](https://help.sap.com/docs/integration-suite/sap-integration-suite/on-premise-connectivity-plan)
 
 * [Creating an API Proxy using SAP Cloud Integration API Provider](https://help.sap.com/docs/integration-suite/sap-integration-suite/creating-api-from-sap-cloud-integration-api-provider)
+* [API examples for SAP Cloud ALM](https://github.com/SAP-samples/cloud-alm-api-examples)
