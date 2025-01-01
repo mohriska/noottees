@@ -26,3 +26,4 @@
 * [Deploy a simple SAPUI5 application connected to SCI mailing service via destination, to sap cloud platform cloud foundry environment](https://blogs.sap.com/2018/03/23/deploy-a-simple-sapui5-application-connected-to-sci-mailing-service-via-destination-to-sap-cloud-platform-cloud-foundry-environment/)
 
 * [How to embed SAPUI5 screen to external iframe](https://blogs.sap.com/2023/09/20/how-to-embed-sapui5-screen-to-external-iframe/)
+* [SAP - ABAP Programming Model for SAP Fiori](https://help.sap.com/docs/SAP_NETWEAVER_AS_ABAP_752/cc0c305d2fab47bd808adcad3ca7ee9d/4b5e56ec6f28453f81ac370bd91fb06d.html?version=7.52.5)
