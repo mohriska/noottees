@@ -13,3 +13,5 @@ https://github.com/0nn0/terminal-mac-cheatsheet
 - [Using ABAP Annotations in CDS Views](https://learning.sap.com/learning-journeys/acquire-core-abap-skills/using-abap-annotations-in-cds-views_fcda7ade-1bb7-4c79-8b1f-0f20c7f45a70)
 - [Deep Dive 1 - ABAP CDS View based data extraction in SAP Data Intelligence](https://github.com/SAP-samples/teched2022-DA281/blob/main/exercises/dd1/README.md)
 - [Technology Blogs by SAP - SAPUI5 flexibility to adapt standard SAP apps](https://community.sap.com/t5/technology-blogs-by-sap/extending-sapui5-apps-adaptation-projects-vs-extension-projects/ba-p/13961264)
+- [Customizing Standard Fiori applications in WEBIDE ](https://community.sap.com/t5/technology-blogs-by-members/customizing-standard-fiori-applications-in-webide/ba-p/13432340)
+- [NEO Standard Ext](https://www.google.com/search?client=firefox-b-d&q=hot+to+extend+sap+standard+fiori+to+neo+portal)
