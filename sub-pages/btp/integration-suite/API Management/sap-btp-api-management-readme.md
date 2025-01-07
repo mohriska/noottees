@@ -34,3 +34,10 @@ The API business hub enterprise has been relaunched as Developer Hub with upgrad
 
 * [Creating an API Proxy using SAP Cloud Integration API Provider](https://help.sap.com/docs/integration-suite/sap-integration-suite/creating-api-from-sap-cloud-integration-api-provider)
 * [API examples for SAP Cloud ALM](https://github.com/SAP-samples/cloud-alm-api-examples)
+* [Welcome to SAP API Business Hub Community for API Recipes](https://github.com/SAP/apibusinesshub-api-recipes)
+* [Getting started with the use case](https://github.com/SAP-samples/btp-create-api-integrations/blob/main/01-GettingStartedGuide/README.md)
+* [Steps to create api proxy in sap api management with api key verification](https://community.sap.com/t5/technology-blogs-by-members/steps-to-create-api-proxy-in-sap-api-management-with-api-key-verification/ba-p/13573031)
+* [Public SAP HCP, API Management API Proxy GitHub Now Available](https://community.sap.com/t5/technology-blogs-by-sap/public-sap-hcp-api-management-api-proxy-github-now-available/ba-p/13207966)
+* [Integrate SAP API Management](https://github.com/SAP-samples/btp-cap-multitenant-saas/blob/main/docu/3-advanced/4-kyma-integrate-api-management/README.md)
+* [Prepare SAP API Management for service account access](https://github.com/SAP-samples/btp-create-api-integrations/blob/main/02-LowCodeDevPortal/02-01-Prepare-api-proxy.md)
+* [SAP API Management Part 3 API Development](https://saurabhtree.com/2024/03/03/sap-api-management-part-3-api-development/comment-page-1/)

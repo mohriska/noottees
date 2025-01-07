@@ -27,3 +27,4 @@
 
 * [How to embed SAPUI5 screen to external iframe](https://blogs.sap.com/2023/09/20/how-to-embed-sapui5-screen-to-external-iframe/)
 * [SAP - ABAP Programming Model for SAP Fiori](https://help.sap.com/docs/SAP_NETWEAVER_AS_ABAP_752/cc0c305d2fab47bd808adcad3ca7ee9d/4b5e56ec6f28453f81ac370bd91fb06d.html?version=7.52.5)
+* [SAP Fiori Element Feature Showcase App for the ABAP RESTful Application Programming Model](https://github.com/SAP-samples/abap-platform-fiori-feature-showcase)
