@@ -1,9 +1,23 @@
 # Apple Readme
 
+- [An-iOS-Developer-s-Guide-to-SwiftUI](https://subscription.packtpub.com/book/business-and-other/9781801813624/pref)
+- [An-iOS-Developer-s-Guide-to-SwiftUI - Examples on GitHUB](https://github.com/PacktPublishing/An-iOS-Developer-s-Guide-to-SwiftUI/blob/main/CH1/PlaygroundExample.playground/timeline.xctimeline)
 
+### Books
+- [SwiftUI Projects](https://subscription.packtpub.com/book/mobile/9781839214660/pref)
+- [Elevate SwiftUI Skills by Building Projects](https://subscription.packtpub.com/book/mobile/9781803242071/pref)
+- [Mastering iOS 18 Development](https://subscription.packtpub.com/book/mobile/9781835468104/pref)
+- [iOS 18 Programming for Beginners - Ninth Edition](https://subscription.packtpub.com/book/mobile/9781836204893/1)
+- [Deep Dive iOS 16 Swift - SwiftUI Programming [Video]](https://subscription.packtpub.com/video/web-development/9781805121770/p1/video1_1/introduction)
+- [SwiftUI and Node.js Full Stack - Build Twitter - iOS 16 [Video]](https://subscription.packtpub.com/video/data/9781801077590/p1/video1_1/introduction)
+- [SwiftUI Cookbook - Second Edition](https://subscription.packtpub.com/book/mobile/9781803234458/1)
+- [Swift Cookbook - Third Edition](https://subscription.packtpub.com/book/mobile/9781803239583/pref)
+- [SwiftUI Cookbook - Third Edition](https://subscription.packtpub.com/book/business-and-other/9781805121732/pref)
+- [iPhone Apps for Complete Beginners - Swift, SwiftUI & iOS17](https://subscription.packtpub.com/video/programming/9781835464755/p1/video1_1/introduction)
 
 
 ### References: 
+- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [If you can't reset your Mac login password](https://support.apple.com/en-us/102673)
 - [Top Ranked iOS App Store Apps](https://appfigures.com/top-apps/ios-app-store/united-states/iphone/top-overall)
 - [StorySet](https://storyset.com/illustration/light-bulb/bro)
@@ -24,3 +38,5 @@
 - [HTML5 Games Workshop](https://mozdevs.github.io/html5-games-workshop/en/guides/platformer/start-here/)
 - [WebGames Tutorials](https://developer.mozilla.org/en-US/docs/Games/Tutorials)
 - [Complete Guide to Building Games in the Browser](https://dev.to/zippcodder/complete-guide-to-building-games-in-the-browser-kp6)
+- [Modern Swift API Design](https://developer.apple.com/videos/play/wwdc2019/415/)
+- [iOS Document Apps](https://www.google.com/search?client=safari&rls=en&q=ios+document+apps&ie=UTF-8&oe=UTF-8)

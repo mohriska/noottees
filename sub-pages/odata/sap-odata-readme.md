@@ -8,7 +8,7 @@
     * [sap-client option](./subpages/Postman/sap_btp_postman-sap-client.md)
     * [cookie option](./subpages/Postman/sap_btp_postman-cookie.md)
 
-
+- [SAP Gateway Foundation](https://help.sap.com/docs/SAP_NETWEAVER_AS_ABAP_752/68bf513362174d54b58cddec28794093/97abd231f89a40169aaaad017439531e.html)
 - [AttachmentCommentSAPUI5](https://github.com/aditheos/AttachmentCommentSAPUI5)
 
 https://blogs.sap.com/2022/01/22/howto-odata-high-level-overview/
