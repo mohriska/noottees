@@ -10,3 +10,4 @@
 * [Call deployed CPI iflow from BTP sapui5 application in build work zone by using fetch](https://blogs.sap.com/2023/06/12/call-deployed-cpi-iflow-from-btp-launchpad-sapui5-application-by-using-fetch/)
 * [Call deployed CPI iflow from BTP sapui5 application by using ajax](https://blogs.sap.com/2022/10/21/call-deployed-cpi-iflow-from-btp-sapui5-application-by-using-ajax/)
 
+* [Design and Deploy Your First Integration Flow](https://developers.sap.com/tutorials/cp-starter-integration-cpi-design-iflow..html)

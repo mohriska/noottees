@@ -22,8 +22,13 @@ Information published on SAP site
 
 
 ### References
+* [Developing with SAP Integration Suite](https://learning.sap.com/learning-journeys/developing-with-sap-integration-suite)
 * [SAP Integration Suite - Hybrid Integration](https://www.youtube.com/watch?v=sK1Eq-l2Y3s)
 * [SAP Integration Suite](https://help.sap.com/docs/integration-suite/sap-integration-suite/what-is-sap-integration-suite)
 * [Connectivity to Non-SAP Applications using SAP Integration Suite](https://developers.sap.com/mission.btp-integration-suite-nonsapconnectivity.html)
 * [SAP Integration Suite Learning Journey](https://github.com/SAP-samples/integration-suite-learning-journey/blob/main/README.md)
 * [SAP Integration Suite](https://pages.community.sap.com/topics/integration-suite)
+* [YouTube - SAP Integration Suite Full Course | ZaranTech](https://www.youtube.com/watch?v=aOyGbP6EH_A)
+* [SAP Integration Suite - Overview, Recent Innovation and Roadmap | SAP Community Call](https://www.youtube.com/watch?v=nbpqUAvrs1w)
+* [FlashPipe - Your CI/CD Companion for SAP Integration Suite](https://www.youtube.com/watch?v=AGP1y1qwk9U)
+* []()

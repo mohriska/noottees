@@ -7,6 +7,7 @@ https://github.com/0nn0/terminal-mac-cheatsheet
 
 
 ### References
+* [SAP Commuunity](https://community.sap.com/)
 - [Learning Journeys](https://learning.sap.com/learning-journeys?page=1&lsc_product_category=Business+Technology+Platform)
 - [SAP Gateway Foundation](https://help.sap.com/docs/ABAP_PLATFORM_NEW/68bf513362174d54b58cddec28794093/19a426519eff236ee10000000a445394.html)
 - [SAP Mobile Platfrom - Delta Token](https://help.sap.com/docs/SAP_MOBILE_PLATFORM_SDK_31/42dc90f1e1ed45d9aafad60c80646d10/7c0f4f5e70061014989cdd30af09131a.html)
@@ -15,3 +16,4 @@ https://github.com/0nn0/terminal-mac-cheatsheet
 - [Technology Blogs by SAP - SAPUI5 flexibility to adapt standard SAP apps](https://community.sap.com/t5/technology-blogs-by-sap/extending-sapui5-apps-adaptation-projects-vs-extension-projects/ba-p/13961264)
 - [Customizing Standard Fiori applications in WEBIDE ](https://community.sap.com/t5/technology-blogs-by-members/customizing-standard-fiori-applications-in-webide/ba-p/13432340)
 - [NEO Standard Ext](https://www.google.com/search?client=firefox-b-d&q=hot+to+extend+sap+standard+fiori+to+neo+portal)
+- [Tour the SAP Community 2024](https://developers.sap.com/tutorials/community-2024.html)
