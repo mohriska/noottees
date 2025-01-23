@@ -14,6 +14,12 @@
 * [CF Tutorials](https://github.com/cloudfoundry-tutorials)
 * [CF Udemy Bootcamp](https://www.udemy.com/course/cloud-foundry/)
 * [Develop Your First SAPUI5 Web App on Cloud Foundry](https://developers.sap.com/mission.sapui5-cf-first.html)
+* [SAP Cloud Portal Service on Cloud Foundry](https://help.sap.com/docs/cloud-portal-service/sap-cloud-portal-service-on-cloud-foundry/developing-html5-applications-and-extensions)
+* [Part2: Architecting Complex Real Life Business Scenario on SAP BTP with ease [ Targeting Multiple backend S/4HANA Systems utilizing Principal Propagation ]](https://community.sap.com/t5/technology-blogs-by-members/part2-architecting-complex-real-life-business-scenario-on-sap-btp-with-ease/ba-p/13557517)
+
+
+
+
 
 
 ### ToDo: 

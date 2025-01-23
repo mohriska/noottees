@@ -10,7 +10,8 @@
 
 
 ### References
-
+* [SAPUI5](https://pages.community.sap.com/topics/ui5)
+* [UI5 Demo Kit](https://sapui5.hana.ondemand.com)
 * [Developing Front-End Applications in Cloud Foundry - an End-to-End Journey](https://www.youtube.com/watch?v=Jbq6zaKEUyY)
 * [Mastering the UI5 Ecosystem for Modern and Advanced OpenUI5/SAPUI5 Development](https://www.youtube.com/watch?v=T92AKz5MP2E)
 * [Using the SAP Approuter at dev time - a full-stack journey with UI5 and SAP CAP](https://www.youtube.com/watch?v=bJIMIE7yjIE)

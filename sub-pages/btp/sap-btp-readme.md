@@ -20,3 +20,8 @@
 * [Getting User Information in BTP Launchpad](https://community.sap.com/t5/technology-blogs-by-members/getting-user-information-in-btp-launchpad/ba-p/13513617)
 
 * [Start Developing in SAP BTP](https://developers.sap.com/mission.scp-1-start-developing.html)
+
+* [SAP BTP Cheat sheet](https://medium.com/@raja.gupta20/sap-btp-cheat-sheet-85f0a6e319c7)
+
+* [
+Get Started on SAP BTP with SAPUI5/Fiori - Create a Hello World App](https://discovery-center.cloud.sap/card/5a038a4b-190c-48c9-9ebc-23c17157b3a2)
