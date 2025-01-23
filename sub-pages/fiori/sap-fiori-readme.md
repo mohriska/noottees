@@ -10,6 +10,7 @@
 
 
 ### References
+* [Learning the Basics of SAP Fiori](https://learning.sap.com/learning-journeys/learn-the-basics-of-sap-fiori)
 * [SAPUI5](https://pages.community.sap.com/topics/ui5)
 * [UI5 Demo Kit](https://sapui5.hana.ondemand.com)
 * [Developing Front-End Applications in Cloud Foundry - an End-to-End Journey](https://www.youtube.com/watch?v=Jbq6zaKEUyY)
