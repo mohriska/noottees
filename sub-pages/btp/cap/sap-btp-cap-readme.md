@@ -159,8 +159,10 @@ General Rule:
 - [sapui5bin](https://github.com/qmacro/sapui5bin)
 
 - [SAPUI5-Fiori](https://github.com/qmacro/SAPUI5-Fiori)
-
-
+- [Extending your On-Premise OData Entities in CAP](https://www.youtube.com/watch?v=suKt7xMhEY4)
+- [The Art and Science of CAP](https://www.youtube.com/playlist?list=PL6RpkC85SLQAe45xlhIfhTYB9G0mdRVjI)
+* [Using the SAP Approuter at dev time - a full-stack journey with UI5 and SAP CAP](https://www.youtube.com/watch?v=bJIMIE7yjIE&list=PL6RpkC85SLQAxfeffIBpvAs-02ChcuEuh)
+* [Continuous Integration and Delivery](https://www.youtube.com/watch?v=gvWSHSZFPok&list=PL6RpkC85SLQAyZ8EtrK6O2idEAq4yHfDJ)
 
 [<- Back to Content](#content)
 

@@ -17,3 +17,14 @@
 
 
 
+## References to:
+
+### Company WebSites
+
+* [axway](https://www.axway.com/en)
+* [qubittron](https://www.qubittron.com)
+* [corealm](https://corealm.com/azure-devops-connector-for-sap-cloud-alm/)
+* [lemongrasscloud](https://lemongrasscloud.com)
+
+
+* [Draslovka - Track Sales Orders](https://github.com/claimate/draslovka-extF2577-zsd_so_items/tree/main)

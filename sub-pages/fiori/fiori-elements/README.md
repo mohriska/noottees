@@ -78,3 +78,11 @@ ISBN
 Stock
 ```
 
+
+
+
+### References
+* [Getting Started with SAP Fiori elements](https://www.youtube.com/playlist?list=PLo17W6sWsxWP4RMYXd7l824ss5KriAbwm)
+* [SAP Fiori Elements](https://www.youtube.com/playlist?list=PLgrLPU8fzLhHvdDqLWud3Lp8nVniylwX2)
+* [Developing and Extending SAP Fiori Elements Apps - Week_3 SAP Learning Free Course](https://www.youtube.com/watch?v=ijeOJDZ5eyc)
+* [Hands-on exercise for week 2 unit 6: Adding custom controls and logic](https://github.com/SAP-samples/fiori-elements-opensap/blob/main/week2/unit6.md)
