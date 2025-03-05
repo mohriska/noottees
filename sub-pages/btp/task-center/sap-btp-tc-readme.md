@@ -39,3 +39,6 @@ Can be approved: Notebook, Mobile
 - [SAP Build Business Work Zone in BTP || Fiori launchpad in BTP is now Work zone || Deploy App to work](https://www.youtube.com/watch?v=OTXXplZxjw4)
 
 - [Part 1: Integrating an Extension Workflow on SAP BTP into a Flexible Workflow](https://community.sap.com/t5/technology-blogs-by-sap/part-9-end-to-end-test-of-workflow-integration-scenario/ba-p/13506563)
+
+
+- [Integration of My Inbox Fiori application with SAP Launchpad service](https://community.sap.com/t5/technology-blogs-by-members/integration-of-my-inbox-fiori-application-with-sap-launchpad-service/ba-p/13554466)

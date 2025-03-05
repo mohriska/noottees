@@ -8,3 +8,4 @@
 * [Import an iFlow into the SAP CPI integration suite](https://devopswarm.com/2021/12/28/import-sap-cpi-iflow/)
 * [Set Up Integration Suite Trial](https://developers.sap.com/tutorials/cp-starter-isuite-onboard-subscribe.html)
 * [Four Clean Core Use Cases for SAP S/4HANA Cloud with SAP Business Technology Platform ](https://community.sap.com/t5/enterprise-resource-planning-blogs-by-sap/four-clean-core-use-cases-for-sap-s-4hana-cloud-with-sap-business/ba-p/13991356)
+* [learning.sap - Introducing SAP Integration Suite](https://learning.sap.com/learning-journeys/developing-with-sap-integration-suite/creating-an-api-provider_b95113e7-369f-4dd3-9773-ec4e0fde2e00)
