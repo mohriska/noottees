@@ -12,3 +12,7 @@
 * [Integrate SAP Cloud ALM with External Tasks Management Systems](https://discovery-center.cloud.sap/missiondetail/4407/?tab=projectboard)
 * [Central monitoring of integration scenarios using SAP Cloud ALM](https://community.sap.com/t5/technology-blogs-by-sap/central-monitoring-of-integration-scenarios-using-sap-cloud-alm/ba-p/13536605)
 * [Centralized health monitoring of SAP Cloud Integration using SAP Cloud ALM](https://community.sap.com/t5/technology-blogs-by-sap/centralized-health-monitoring-of-sap-cloud-integration-using-sap-cloud-alm/ba-p/13522173)
+* [SAP Cloud ALM to Azure DevOps Integration](https://ecanarys.com/sap-cloud-alm-to-azure-devops-integration/)
+* [SAP Cloud ALM to Azure DevOps Integration](https://www.geeksforgeeks.org/sap-cloud-alm-to-azure-devops-integration/)
+* [API Guide for SAP Cloud ALM](https://help.sap.com/docs/cloud-alm/apis/calling-apis)
+* [SAP Cloud ALM - Application Help](https://help.sap.com/docs/cloud-alm/applicationhelp/im-content?q=integration+azure)

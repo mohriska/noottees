@@ -38,7 +38,7 @@ https://blogs.sap.com/2022/01/22/howto-odata-high-level-overview/
 - [File Upload/Download through NetWeaver Gateway](https://blogs.sap.com/2014/09/23/file-uploaddownload-through-netweaver-gateway/)
 
 - [File Attachment using gateway](https://answers.sap.com/questions/9644736/file-attachment-using-gateway.html)
-
+- [Metadata Cache](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/68bf513362174d54b58cddec28794093/b8fd2651c294256ee10000000a445394.html)
 
 ## How to create deep entity with oModel.createEntry
 

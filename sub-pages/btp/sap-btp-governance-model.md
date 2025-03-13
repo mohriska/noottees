@@ -58,3 +58,12 @@ software development, security, compliance, and IT operations to manage that clo
 
 
 
+### References
+* [Build a cloud governance team](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/build-cloud-governance-team)
+* [Cloud Governance](https://www.imperva.com/learn/data-security/cloud-governance/)
+* [What is Cloud Data Governance: Framework & Examples](https://airbyte.com/data-engineering-resources/cloud-data-governance)
+* [SAP BTP Governance](https://www.delaware.pro/en-be/store/all-packages/operational-excellence/sap-btp-governance/d7fc8f50-e93d-477c-9db6-4439cd7940dc)
+* [Mastering SAP BTP challenges](https://eviden.com/insights/blogs/governance-toolkit-for-sap-btp-challenges/)
+* [SAP Business Technology Platform (BTP) – Governance and Account Model](https://rizing.com/human-capital-management/sap-btp-governance-account-model/)
+* [Azure Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates)
+* [Building Teams](https://help.sap.com/docs/btp/btp-admin-guide/building-teams)

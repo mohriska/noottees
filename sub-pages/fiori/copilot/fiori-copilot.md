@@ -13,3 +13,4 @@
 - [Navigating the AI Development Landscape: It's time for GitHub Copilot to meet SAP](https://trifork.com/2024/08/navigating-the-ai-development-landscape-its-time-for-github-copilot-to-meet-sap/)
 - [SAP CoPilot Skill Builder Developer Guide](https://help.sap.com/docs/SAP_COPILOT/83e70b3e1bf94a41bcd4b24a390ed0dc/150e1ab8784c430993b3ae2f36be0b03.html)
 - [SAP CoPilot Application Developer Guide](https://help.sap.com/docs/SAP_COPILOT/e6effb1f85414df48adcbfc76e18e1e4/db80893121ac4a71833ab4b170a548ce.html)
+- [SAP CoPilot Configuration Guide](https://help.sap.com/docs/SAP_COPILOT/c7d829d2dff24c458f88fe7671e3ae8e/8d3cf48be6fe4bacbc436375e1892a44.html)
