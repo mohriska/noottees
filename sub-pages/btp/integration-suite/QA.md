@@ -1,0 +1,1 @@
+* Is ti necessary to activate also Process Integration Runtime, if SAP Integration Suite is activated?
