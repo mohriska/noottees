@@ -55,6 +55,7 @@
 
 - [Road Map Explorer](https://roadmaps.sap.com/board?range=2023Q3-2023Q4&PRODUCT=67837800100800007077#Q3%202023)
 
+- [Extend SAP S/4HANA with SAP Build Process Automation](https://github.com/SAP-samples/s4hana-cloud-extension-process-automation/blob/main/README.md)
 
 ## YouTube
 

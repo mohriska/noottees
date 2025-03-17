@@ -33,3 +33,4 @@ Information published on SAP site
 * [FlashPipe - Your CI/CD Companion for SAP Integration Suite](https://www.youtube.com/watch?v=AGP1y1qwk9U)
 * [Build custom MongoDB integration adapter](https://github.com/SAP/apibusinesshub-integration-recipes/blob/master/Recipes/for/mongodb-integration-adapter/readme.md)
 
+* [Azure API and CPI: Webhook Integration](https://community.sap.com/t5/technology-blogs-by-members/azure-api-and-cpi-webhook-integration/ba-p/13469147)
