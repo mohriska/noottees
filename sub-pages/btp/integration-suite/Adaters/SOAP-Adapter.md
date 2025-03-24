@@ -10,11 +10,11 @@ SOAP message to another system.
 When you're exposing an iFlow in Cloud Integration with a SOAP endpoint, you would often have a Web Services Definition Language (WSDL) file or URL, which will define the structure of the request and response messages along with some additional infor-mation. You can find a detailed explanation of the [components of a WSDL](www.w3.org/TR/wsdl20/).
 
 
-![General_tab-SOAP](1_general-SOAP.png)
+![General_tab-SOAP](./Images/1_general-SOAP.png)
 
-![Connection-SOAP](2_connection-SOAP.png)
+![Connection-SOAP](./Images/2_connection-SOAP.png)
 
-![Connection_WSDL-SOAP](3_Connection_WSDL_SOAP.png)
+![Connection_WSDL-SOAP](./Images/3_Connection_WSDL_SOAP.png)
 
 ### References
 - [W3 SOAP](http://www.w3.org/TR/soap/)
