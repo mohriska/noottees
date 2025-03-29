@@ -18,7 +18,7 @@
 * [SAP Integration Suite Full Course | ZaranTech](https://www.youtube.com/watch?v=aOyGbP6EH_A)
 * [SAP Integration Suite](https://www.youtube.com/watch?v=XZxwDRe_RcI)
 * [SAP Integration Suite Overview and How Its Accelerating 3rd Party Integrations](https://www.youtube.com/watch?v=m7WEDjg9C0I)
-
+* [Leveraging Azure Active Directory and SAP Business Technology Platform](https://community.sap.com/t5/technology-blogs-by-members/leveraging-azure-active-directory-and-sap-business-technology-platform/ba-p/13532817)
 
 
 ### WebHook

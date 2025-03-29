@@ -8,9 +8,9 @@
 ### References
 
 
+* [Please welcome ‘SAP Event Mesh’ - new name for ‘SAP Cloud Platform Enterprise Messaging’](https://community.sap.com/t5/technology-blogs-by-sap/please-welcome-sap-event-mesh-new-name-for-sap-cloud-platform-enterprise/ba-p/13492273)
 
-
-
+* [Configuration of Eventing in On-Premise Backend and SAP Event Mesh ](https://discovery-center.cloud.sap/card/b675d350-ad9b-4942-8810-64e37b263627)
 * [Develop a Messaging App on SAP BTP](https://developers.sap.com/mission.cp-enterprisemessaging-app-develop.html)
 * [Step-by-Step Guide: Sending SAP Data to SAP Event Mesh in Integration Suite (EMIS). Codeless.](https://community.sap.com/t5/technology-blogs-by-members/step-by-step-guide-sending-sap-data-to-sap-event-mesh-in-integration-suite/ba-p/14001181)
 * [SAP Enterprise Messaging for SAP ERP: HowTo-Guide (Part 1 - Connectivity)](https://community.sap.com/t5/technology-blogs-by-members/sap-enterprise-messaging-for-sap-erp-howto-guide-part-1-connectivity/ba-p/13479471)

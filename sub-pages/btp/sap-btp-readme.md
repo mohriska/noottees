@@ -2,6 +2,9 @@
 
 [<-- Back To Main](../../README.md)
 
+* [Tutorials](https://learning.sap.com/videos?page=1)
+* [Illustrating the SAP Business Technology Platform](https://learning.sap.com/learning-journeys/administrating-sap-business-technology-platform/illustrating-the-intelligent-sustainable-enterprise_df1d2992-a95a-487a-9a06-7226bebbb11d)
+
 * [nico schoenteich](https://community.sap.com/t5/user/viewprofilepage/user-id/898)
 
 * [BAS](https://help.sap.com/docs/bas/sap-business-application-studio/what-is-sap-business-application-studio)

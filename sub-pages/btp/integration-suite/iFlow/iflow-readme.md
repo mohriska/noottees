@@ -9,7 +9,7 @@
 * [How to Create a Custom Integration Flow in CPI? || 04 SAP CPI Course](https://www.youtube.com/watch?v=0tPQmLARuEc)
 * [Call deployed CPI iflow from BTP sapui5 application in build work zone by using fetch](https://blogs.sap.com/2023/06/12/call-deployed-cpi-iflow-from-btp-launchpad-sapui5-application-by-using-fetch/)
 * [Call deployed CPI iflow from BTP sapui5 application by using ajax](https://blogs.sap.com/2022/10/21/call-deployed-cpi-iflow-from-btp-sapui5-application-by-using-ajax/)
-
+* [Webhooks with SAP Cloud Platform Integration & API Management](https://www.integration-excellence.com/webhooks-sap-cloud-platform-integration-api-management/)
 * [Design and Deploy Your First Integration Flow](https://developers.sap.com/tutorials/cp-starter-integration-cpi-design-iflow..html)
 * [HTTPS and HTTP Adapter in SAP CPI with Interview Questions](https://www.youtube.com/watch?v=hnss0fLgwcg)
 * [Connecting Systems and Services Using SAP Integration Suite](https://github.com/SAP-samples/connecting-systems-services-integration-suite-codejam/blob/main/README.md)
@@ -23,4 +23,10 @@
 * [SAP Integration Suite: Connecting to non-SAP REST API](https://www.youtube.com/watch?v=lmfZE1PfD7s&list=PLPVhB_hucPHy7JZ1ODaMKocuaeqRbHPi3)
 
 * [Master iFlow SAP CPI Development Complete Course](https://www.youtube.com/watch?v=M4qjKTd-gok)
-
+* [Azure API and CPI: Webhook Integration](https://community.sap.com/t5/technology-blogs-by-members/azure-api-and-cpi-webhook-integration/ba-p/13469147)
+* [SAP BTP CPI iflow end to end integration using odata Adapter - Part 4](https://community.sap.com/t5/technology-blogs-by-members/sap-btp-cpi-iflow-end-to-end-integration-using-odata-adapter-part-4/ba-p/13542055)
+* [SAP EDI/IDoc Communication in CPI Using Bundling and Fewer Mapping Artifacts](https://community.sap.com/t5/technology-blogs-by-members/sap-edi-idoc-communication-in-cpi-using-bundling-and-fewer-mapping/ba-p/13543009)
+* [SCENARIO FOR RFC RECEIVER ADAPTER WITH CLOUD CONNECTOR](https://sapzero2hero.com/2022/03/24/sap-cpi-scenario-for-rfc-receiver-adapter-with-cloud-connector/)
+* [RFC adapter in the iFlow development](https://signatov.com/rfc-adapter-in-the-iflow-development/)
+* [Understanding and configuring the SAP Cloud Connector for RFC and HTTP connections on Cloud Foundry.](https://medium.com/@NickChecan/understanding-and-configuring-the-sap-cloud-connector-for-rfc-and-http-connections-on-cloud-foundry-1750372d06c4)
+* [A Guide to Calling RFC Function Modules from SAP Integration Suite](https://community.sap.com/t5/technology-blogs-by-members/a-guide-to-calling-rfc-function-modules-from-sap-integration-suite/ba-p/13568250)
