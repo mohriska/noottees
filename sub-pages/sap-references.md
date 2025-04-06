@@ -17,3 +17,8 @@ https://github.com/0nn0/terminal-mac-cheatsheet
 - [Customizing Standard Fiori applications in WEBIDE ](https://community.sap.com/t5/technology-blogs-by-members/customizing-standard-fiori-applications-in-webide/ba-p/13432340)
 - [NEO Standard Ext](https://www.google.com/search?client=firefox-b-d&q=hot+to+extend+sap+standard+fiori+to+neo+portal)
 - [Tour the SAP Community 2024](https://developers.sap.com/tutorials/community-2024.html)
+
+
+### e-signature
+- [BTP Use Case series: Use e-signatures to streamline new hire onboarding processes](https://community.sap.com/t5/technology-blogs-by-sap/btp-use-case-series-use-e-signatures-to-streamline-new-hire-onboarding/ba-p/13498716)
+- [Enabling Digital Signature](https://help.sap.com/docs/service-asset-manager/sap-service-and-asset-manager-configuration-guide/enabling-digital-signature)

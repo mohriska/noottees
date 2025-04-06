@@ -30,6 +30,11 @@
 - [Get Started with SAP BTP SDK for Android](https://developers.sap.com/mission.sdk-android-get-started.html)
 - [Implement an Image Classification App for Identifying Product Categories](https://developers.sap.com/mission.sdk-ios-image-classifier.html)
 - [Level Up with the Mobile Development Kit](https://developers.sap.com/mission.mobile-dev-kit-level-up.html)
+- [Extend Your MDK App With a Map Custom Control (Using Metadata Approach)](https://developers.sap.com/tutorials/cp-mobile-dev-kit-map-extension.html)
+- [SAP MDK based iOS App + ITMS-90338: Non-public API usage](https://developer.apple.com/forums/thread/740798)
+- [Now every developer can tap into SAP enterprise systems.](https://developer.apple.com/sap/)
+- [Build Your Mobile Development Kit Client Using MDK SDK](https://developers.sap.com/tutorials/cp-mobile-dev-kit-build-client..html)
+- [mdk development environment](https://community.sap.com/t5/technology-q-a/mdk-development-environment/qaq-p/12516095)
 
 
 [<- Back to Top](#Content)

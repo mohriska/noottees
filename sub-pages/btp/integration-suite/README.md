@@ -1,6 +1,7 @@
 # Integration Suite
 * [SAP Integration Suite - Hybrid Integration](https://www.youtube.com/watch?v=sK1Eq-l2Y3s)
 * [Your Path to SAP Integration Suite Certification: Courses, Exam Prep, and Expert Tips](https://community.sap.com/t5/integration-blog-posts/your-path-to-sap-integration-suite-certification-courses-exam-prep-and/ba-p/14032747)
+* [SAP Integration Suite Full Course | ZaranTech](https://www.youtube.com/watch?v=aOyGbP6EH_A&t=467s)
 * [SAP Community - Integration](https://community.sap.com/t5/integration/gh-p/integration)
 * [SAP Integration Suite](https://help.sap.com/docs/integration-suite/sap-integration-suite/what-is-sap-integration-suite)
 * [Modernizing Integration with SAP Integration Suite](https://learning.sap.com/learning-journeys/modernizing-integration-with-sap-integration-suite?source=email-openSAP-230724)
