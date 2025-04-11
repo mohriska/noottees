@@ -21,3 +21,5 @@
 * [SAP BTP Connectivity - Initial Configuration](https://help.sap.com/docs/connectivity/sap-btp-connectivity-cf/cloud-connector-initial-configuration)
 * [Introducing Cloud Connector](https://learning.sap.com/learning-journeys/connecting-sap-btp-and-on-premise-systems-using-the-cloud-connector/demonstrating-use-cases-for-the-cloud-connector_dd666370-8648-42c2-8c11-734db9b1e5be)
 * [Configure Accessible Resources](https://help.sap.com/docs/connectivity/sap-btp-connectivity-cf/configure-accessible-resources)
+* [Connect Your SAP BTP Trial Account to SAP S/4HANA for Content Consumption](https://developers.sap.com/tutorials/cp-launchpad-federation-connectivity.html)
+* [SAP Cloud Platform Cloud Connector - A Brief Guide for Beginners](https://community.sap.com/t5/technology-blogs-by-members/sap-cloud-platform-cloud-connector-a-brief-guide-for-beginners/ba-p/13282293)
