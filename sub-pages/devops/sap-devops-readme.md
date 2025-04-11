@@ -863,7 +863,7 @@ Like the previous <i><b>build</b></i> and <i><b>test</b></i> stages, you could a
 
 
 ### CI References
-
+- [Working with Integration Suite Piper commands and Microsoft Azure DevOps](https://community.sap.com/t5/technology-blogs-by-members/working-with-integration-suite-piper-commands-and-microsoft-azure-devops/ba-p/13530658)
 - [Demystifying DevOps with SAP BTP: Part 1 – What is DevOps?](https://blogs.sap.com/2023/09/11/demystifying-devops-with-sap-btp-part-1-what-is-devops/)
 
 - [Continuous Integration in UI5 Projects](https://www.youtube.com/watch?v=bmEz-g34H-g)

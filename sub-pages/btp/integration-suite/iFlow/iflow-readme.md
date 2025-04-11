@@ -31,3 +31,5 @@
 * [Understanding and configuring the SAP Cloud Connector for RFC and HTTP connections on Cloud Foundry.](https://medium.com/@NickChecan/understanding-and-configuring-the-sap-cloud-connector-for-rfc-and-http-connections-on-cloud-foundry-1750372d06c4)
 * [A Guide to Calling RFC Function Modules from SAP Integration Suite](https://community.sap.com/t5/technology-blogs-by-members/a-guide-to-calling-rfc-function-modules-from-sap-integration-suite/ba-p/13568250)
 * [Simplified Integration Suite - Connecting SAP & non-SAP](https://www.linkedin.com/pulse/simplified-integration-suite-connecting-sap-non-sap-max-backer/)
+* [Creating an API for iFlow: A Step-by-Step Guide](https://signatov.com/creating-an-api-for-iflow-a-step-by-step-guide/)
+* [Creating an API for iFlow: A Step-by-Step Guide. Part 2](https://signatov.com/creating-an-api-for-iflow-a-step-by-step-guide-part-2/)

@@ -7,7 +7,7 @@
 
 ### References
 
-
+* [SAP Enterprise Messaging for SAP ERP: HowTo-Guide (Part 1 - Connectivity)](https://community.sap.com/t5/technology-blogs-by-members/sap-enterprise-messaging-for-sap-erp-howto-guide-part-1-connectivity/ba-p/13479471)
 * [Please welcome ‘SAP Event Mesh’ - new name for ‘SAP Cloud Platform Enterprise Messaging’](https://community.sap.com/t5/technology-blogs-by-sap/please-welcome-sap-event-mesh-new-name-for-sap-cloud-platform-enterprise/ba-p/13492273)
 
 * [Configuration of Eventing in On-Premise Backend and SAP Event Mesh ](https://discovery-center.cloud.sap/card/b675d350-ad9b-4942-8810-64e37b263627)
@@ -38,3 +38,4 @@
 * [Basics about SAP Enterprise Messaging](https://community.sap.com/t5/technology-blogs-by-members/basics-about-sap-enterprise-messaging/ba-p/13397767)
 
 * [Event Mesh Scope](https://help.sap.com/docs/integration-suite/sap-integration-suite/scope-of-event-mesh)
+* [SAP Event Mesh - Manage Webhooks](https://help.sap.com/docs/event-mesh/event-mesh/manage-webhooks)

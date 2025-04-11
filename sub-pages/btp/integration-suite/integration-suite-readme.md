@@ -48,4 +48,7 @@ Information published on SAP site
 * [Understanding the Basic Concepts](https://help.sap.com/docs/integration-suite/sap-integration-suite/understanding-basic-concepts-a81309fbdc4446b98e138a328bf1776c?q=MonitoringDataRead)
 * [Integration Suite - Accessing Cloud Integration Runtime](https://community.sap.com/t5/technology-blogs-by-sap/integration-suite-accessing-cloud-integration-runtime/ba-p/13495229)
 * [SAP ECC to BTP Integration Suite Proxy connection](https://community.sap.com/t5/technology-q-a/sap-ecc-to-btp-integration-suite-proxy-connection/qaq-p/13962239)
-* []()
+* [SAP HTTP Calls and URI Components](https://help.sap.com/docs/integration-suite/sap-integration-suite/http-calls-and-uri-components)
+
+### Idocs
+* [S/4HANA iDoc integration with SCP Integration Suite](https://www.youtube.com/watch?v=5gRrGQxHwqU)

@@ -7,6 +7,8 @@ https://github.com/0nn0/terminal-mac-cheatsheet
 
 
 ### References
+
+* [Get an Account on SAP BTP to Try Out Free Tier Service Plans](https://developers.sap.com/tutorials/btp-free-tier-account.html)
 * [SAP Commuunity](https://community.sap.com/)
 - [Learning Journeys](https://learning.sap.com/learning-journeys?page=1&lsc_product_category=Business+Technology+Platform)
 - [SAP Gateway Foundation](https://help.sap.com/docs/ABAP_PLATFORM_NEW/68bf513362174d54b58cddec28794093/19a426519eff236ee10000000a445394.html)

@@ -35,6 +35,6 @@
 - [Now every developer can tap into SAP enterprise systems.](https://developer.apple.com/sap/)
 - [Build Your Mobile Development Kit Client Using MDK SDK](https://developers.sap.com/tutorials/cp-mobile-dev-kit-build-client..html)
 - [mdk development environment](https://community.sap.com/t5/technology-q-a/mdk-development-environment/qaq-p/12516095)
-
-
+- [Access SAP Mobile Services](https://developers.sap.com/tutorials/fiori-ios-hcpms-setup..html)
+- [Mobile app - Work Zone](https://sapdude.com/blog/how-sap-supports-mobile-experience-work-zone-ssam-and-more/)
 [<- Back to Top](#Content)

@@ -31,3 +31,5 @@
 * [ SAP BTP - Usage Data Management Service / Resource Consumption APIs](https://community.sap.com/t5/technology-blogs-by-sap/sap-btp-onboarding-series-sap-btp-usage-data-management-service-resource/ba-p/13541871)
 
 * [Navigating the SAP BTP maze](https://eviden.com/insights/blogs/governance-toolkit-for-sap-btp-challenges/)
+
+* [Integration Suite - Provisioning and Upgrading a Free Tier Tenant](https://community.sap.com/t5/technology-blogs-by-sap/integration-suite-provisioning-and-upgrading-a-free-tier-tenant/ba-p/13501860)

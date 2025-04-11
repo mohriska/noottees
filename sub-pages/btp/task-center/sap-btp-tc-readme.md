@@ -42,3 +42,6 @@ Can be approved: Notebook, Mobile
 
 
 - [Integration of My Inbox Fiori application with SAP Launchpad service](https://community.sap.com/t5/technology-blogs-by-members/integration-of-my-inbox-fiori-application-with-sap-launchpad-service/ba-p/13554466)
+
+
+* [Getting Started with SAP Task Center on SAP BTP](https://community.sap.com/t5/technology-blogs-by-members/getting-started-with-sap-task-center-on-sap-btp/ba-p/13533320)
