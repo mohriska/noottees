@@ -33,3 +33,7 @@
 * [Simplified Integration Suite - Connecting SAP & non-SAP](https://www.linkedin.com/pulse/simplified-integration-suite-connecting-sap-non-sap-max-backer/)
 * [Creating an API for iFlow: A Step-by-Step Guide](https://signatov.com/creating-an-api-for-iflow-a-step-by-step-guide/)
 * [Creating an API for iFlow: A Step-by-Step Guide. Part 2](https://signatov.com/creating-an-api-for-iflow-a-step-by-step-guide-part-2/)
+* [SAP CPI - PI (Process Integration) Full Course | ZaranTech](https://www.youtube.com/watch?v=5bztSDobxSs)
+* [SAP CPI Course | Request Reply - HTTP/OData | Get Northwind Customers using HTTP Adapter](https://www.youtube.com/watch?v=ceAN34ufxVo)
+* [Blue Antoinette](https://www.youtube.com/@BlueAntoinette)
+* [Intro - SAP - CPI - External System API to SAP thru ODATA](https://www.youtube.com/watch?v=RLipXIROdFM)

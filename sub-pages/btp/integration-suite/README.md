@@ -35,7 +35,7 @@
 * [Master iFlow SAP CPI Development Complete Course ](https://www.youtube.com/watch?v=M4qjKTd-gok)
 * [*Fetching PDFs from SAP Using CPI and HTTP Adapter.](https://community.sap.com/t5/technology-blogs-by-members/fetching-pdfs-from-sap-using-cpi-and-http-adapter/ba-p/14010145)
 * [SAP CPI Training Live Batch 17th June || Live Training on SAP Integration Suite](https://www.youtube.com/watch?v=np3VB2mR_lQ)
-
+* [CPI set APIKEY in HTTP request is not working](https://community.sap.com/t5/technology-q-a/cpi-set-apikey-in-http-request-is-not-working/qaq-p/12639027)
 ### Api Management 
 * [SAP API Management - a full overview](https://community.sap.com/t5/technology-blogs-by-sap/sap-api-management-a-full-overview/ba-p/13389905)
 * [SAP API Management – a full overview (2)](https://community.sap.com/t5/technology-blogs-by-sap/sap-api-management-a-full-overview-2/ba-p/13398765)

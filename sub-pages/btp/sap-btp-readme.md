@@ -33,3 +33,5 @@
 * [Navigating the SAP BTP maze](https://eviden.com/insights/blogs/governance-toolkit-for-sap-btp-challenges/)
 
 * [Integration Suite - Provisioning and Upgrading a Free Tier Tenant](https://community.sap.com/t5/technology-blogs-by-sap/integration-suite-provisioning-and-upgrading-a-free-tier-tenant/ba-p/13501860)
+
+* [BTP Multi Cloud](https://www.youtube.com/@rakiative)

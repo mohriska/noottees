@@ -18,7 +18,8 @@
 ## References
 
 [<- Back to Top](#Content)
-
+- [SAP-samples -
+cloud-mdk-tutorial-samples](https://github.com/SAP-samples/cloud-mdk-tutorial-samples)
 - [Brand Your Customized App with Mobile Development Kit SDK](https://developers.sap.com/mission.mobile-dev-kit-brand.html)
 - [Build a Mobile App with API Management](https://developers.sap.com/mission.apim-mobile-app.html)
 - [Build an iOS and MacOS App with One Code Line Using SAP BTP SDK for iOS](https://developers.sap.com/mission.sdk-ios-one-code-line.html)
@@ -37,4 +38,9 @@
 - [mdk development environment](https://community.sap.com/t5/technology-q-a/mdk-development-environment/qaq-p/12516095)
 - [Access SAP Mobile Services](https://developers.sap.com/tutorials/fiori-ios-hcpms-setup..html)
 - [Mobile app - Work Zone](https://sapdude.com/blog/how-sap-supports-mobile-experience-work-zone-ssam-and-more/)
+* [SAP BTP SDK for iOS](https://help.sap.com/docs/btp-sdk-ios/sap-btp-sdk-for-ios/getting-started)
+* [SAP Mobile Development Kit Samples](https://github.com/SAP-samples/cloud-mdk-samples)
+
+
+
 [<- Back to Top](#Content)
