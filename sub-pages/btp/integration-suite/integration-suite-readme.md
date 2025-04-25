@@ -26,6 +26,7 @@ Information published on SAP site
 * [MRM Blog 2: Building an Integration Flow with SAP Integration Suite](https://community.sap.com/t5/technology-blogs-by-members/mrm-blog-2-building-an-integration-flow-with-sap-integration-suite/ba-p/14029881)
 * [Integrations Supported by SAP Application Interface Framework](https://help.sap.com/docs/help/08396ebe30e245e69ea8b1f00be0f9d0/7b290cea17d140e086c814f82d401fe2.html)
 * [Design and Deploy Integration Flow](https://github.com/SAP-samples/cloud-mdi-integration/blob/main/documentation/implement/cpi/README.md)
+* [Welcome to the SAP Integration Suite Learning Journey](https://github.com/SAP-samples/integration-suite-learning-journey/tree/main)
 * [Request Product Details with an Integration Scenario](https://developers.sap.com/mission.cp-starter-integration-cpi.html)
 * [Preparing Your Non-SAP Application's Trial Account](https://developers.sap.com/tutorials/btp-integration-suite-nonsapconnectivity-settingup-thirdparty.html)
 * [Developing with SAP Integration Suite](https://learning.sap.com/learning-journeys/developing-with-sap-integration-suite)
@@ -49,6 +50,7 @@ Information published on SAP site
 * [Integration Suite - Accessing Cloud Integration Runtime](https://community.sap.com/t5/technology-blogs-by-sap/integration-suite-accessing-cloud-integration-runtime/ba-p/13495229)
 * [SAP ECC to BTP Integration Suite Proxy connection](https://community.sap.com/t5/technology-q-a/sap-ecc-to-btp-integration-suite-proxy-connection/qaq-p/13962239)
 * [SAP HTTP Calls and URI Components](https://help.sap.com/docs/integration-suite/sap-integration-suite/http-calls-and-uri-components)
-
+* [Automating Message Retries in SAP CPI with the Data Store Channel](https://community.sap.com/t5/technology-blogs-by-members/automating-message-retries-in-sap-cpi-with-the-data-store-channel/ba-p/14024305)
+* [IN264 - Combine SAP Integration Suite and SAP Build Process Automation in HR](https://github.com/SAP-samples/teched2023-IN264)
 ### Idocs
 * [S/4HANA iDoc integration with SCP Integration Suite](https://www.youtube.com/watch?v=5gRrGQxHwqU)

@@ -36,6 +36,7 @@
 * [Event Driven Architecture – SAP Event Broker for SAP cloud applications](https://www.youtube.com/watch?v=y2GK9Lng4b8)
 * [Diving into messaging on SAP Business Technology Platform - Part 1 - Setup and overview](https://www.youtube.com/watch?v=qHjzefGn4W4)
 * [Basics about SAP Enterprise Messaging](https://community.sap.com/t5/technology-blogs-by-members/basics-about-sap-enterprise-messaging/ba-p/13397767)
-
+* [Create simple, connected experiences with API-based integration](https://github.com/SAP-samples/btp-create-api-integrations)
 * [Event Mesh Scope](https://help.sap.com/docs/integration-suite/sap-integration-suite/scope-of-event-mesh)
 * [SAP Event Mesh - Manage Webhooks](https://help.sap.com/docs/event-mesh/event-mesh/manage-webhooks)
+* [IN265 - Event-Driven Architecture with SAP Integration Suite, Advanced Event Mesh](https://github.com/SAP-samples/teched2023-IN265)

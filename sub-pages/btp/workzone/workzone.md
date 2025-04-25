@@ -14,7 +14,7 @@ build-workzone-integration](https://github.com/SAP-samples/build-workzone-integr
 
 * [SAP-samples- 
 workzone-content-package-templates](https://github.com/SAP-samples/workzone-content-package-templates)
-
+* [Access Fiori apps via SAP Build Work Zone Site with Federated SAP S/4HANA Content](https://community.sap.com/t5/technology-blogs-by-members/access-fiori-apps-via-sap-build-work-zone-site-with-federated-sap-s-4hana/ba-p/13558780)
 * [SAP Build Work Zone](https://help.sap.com/docs/build-work-zone-standard-edition/sap-build-work-zone-standard-edition/try-out-our-end-to-end-tutorial)
 * [Enhance Your SAP Build Work Zone Site with Federated SAP S/4HANA Content](https://developers.sap.com/mission.launchpad-s4hana.html)
 * [Create Your First Workspace in SAP Build Work Zone, advanced edition Workshop](https://developers.sap.com/mission.workzone-workshop.html)
@@ -35,3 +35,10 @@ workzone-content-package-templates](https://github.com/SAP-samples/workzone-cont
 * [Setting up SAP Mobile Start with SAP S/4HANA on SAP Build Work Zone](https://learning.sap.com/learning-journeys/Setting-Up-SAP-Build-Work-Zone-standard-edition-and-SAP-Mobile-Start-with-SAP-S-4HANA)
 * [Tag: "SAP Start" in "Technology Blogs by SAP"](https://community.sap.com/t5/tag/SAP%20Start/tg-p/board-id/technology-blog-sap)
 * [SAP Build Work Zone - Setting Up the SAP Mobile Start Application](https://help.sap.com/docs/build-work-zone-standard-edition/sap-build-work-zone-standard-edition/setting-up-sap-mobile-start-application)
+
+
+* [SAP Start](https://help.sap.com/docs/start/sap-start/what-is-sap-start)
+
+* [AD280 - A Beginning to End Workshop on Configuring SAP Build Work Zone, standard edition](https://github.com/SAP-archive/teched2022-AD280)
+
+* [XSA Fiori Launchpad On-Premise Configuration With Cross-MTA Dependencies and UAA.](https://community.sap.com/t5/technology-blogs-by-members/xsa-fiori-launchpad-on-premise-configuration-with-cross-mta-dependencies/ba-p/13451191)

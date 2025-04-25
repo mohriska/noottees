@@ -3,6 +3,7 @@
 # sap_build_process_automation
 
 ## Some links
+* [AI360 - Dive into Business Document Processing with AI Step by Step](https://github.com/SAP-archive/teched2022-AI360)
 - [SAP Build Process Automation](https://help.sap.com/docs/build-process-automation?locale=en-US)
 - [Build Your First Business Process with SAP Build Process Automation](https://developers.sap.com/mission.sap-process-automation.html)
 - [How to call SAP Build Process Automation APIs from SAP Build Apps](https://blogs.sap.com/2022/12/06/how-to-call-sap-build-process-automation-apis-from-sap-build-apps/)
@@ -95,6 +96,7 @@
 
 * [SAPUI5 workflow custom task](https://answers.sap.com/questions/13027474/sapui5-workflow-custom-task.html)
 * [SAP Build Process Automation: (Part-1) Overview and Demo- Build your very first Process/ Workflow](https://www.youtube.com/watch?v=1vElTfSxGWM)
+* [AD160 - Build Robust Apps Enhanced with Process Automation and Low-Code Tooling](https://github.com/SAP-archive/teched2022-AD160)
 
 ### Done
 * [AD180v - Create Apps, Processes, and Workspaces with SAP Build Solutions](https://github.com/SAP-samples/teched2023-AD180v)

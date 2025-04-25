@@ -40,7 +40,8 @@ cloud-mdk-tutorial-samples](https://github.com/SAP-samples/cloud-mdk-tutorial-sa
 - [Mobile app - Work Zone](https://sapdude.com/blog/how-sap-supports-mobile-experience-work-zone-ssam-and-more/)
 * [SAP BTP SDK for iOS](https://help.sap.com/docs/btp-sdk-ios/sap-btp-sdk-for-ios/getting-started)
 * [SAP Mobile Development Kit Samples](https://github.com/SAP-samples/cloud-mdk-samples)
-
-
+* [SAP Mobile Services Continuous Integration Examples](https://github.com/SAP-archive/cloud-mobile-services-continuous-integration)
+* [SAP S/4HANA Cloud Extensions – Display SAP S/4HANA Cloud Products on an iOS Device](https://github.com/SAP-archive/s4hana-ext-product-catalog-ios)
+* [AD181 - Compose Enterprise-Grade Mobile Apps on SAP BTP](https://github.com/SAP-archive/teched2022-AD181)
 
 [<- Back to Top](#Content)

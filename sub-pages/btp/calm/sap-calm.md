@@ -17,7 +17,7 @@
 * [Integration & Exception Monitoring - Setup &
 Configuration](https://support.sap.com/en/alm/sap-cloud-alm/operations/expert-portal/integration-monitoring/int-mon-setup-support.html?anchorId=section_1683886374_c)
 * [Integration Monitoring for the SAP Integration Suite with Cloud ALM](https://community.sap.com/t5/technology-blogs-by-members/integration-monitoring-for-the-sap-integration-suite-with-cloud-alm/ba-p/13571273)
-
+* [IIS162 - Manage Your Implementation Using SAP Cloud ALM](https://github.com/SAP-archive/teched2021-IIS162)
 
 ### YouTube
 - [Which tool to use to monitor the Integration Suite | ALM](https://www.youtube.com/watch?v=i7FgxbtOxSA)

@@ -27,7 +27,7 @@ The API business hub enterprise has been relaunched as Developer Hub with upgrad
 * [Cloud Integration: Call iFlow from Node app [2]: Service Binding + OAuth + Roles + CSRF + Credentials Rotation](https://blogs.sap.com/2023/06/06/cloud-integration-call-iflow-from-node-app-2-service-binding-oauth-roles-csrf-credentials-rotation/)
 * [From OData Provisioning (Cloud Foundry) to SAP Integration Suite](https://blogs.sap.com/2022/01/11/from-odata-provisioning-cloud-foundry-to-sap-integration-suite/)
 * [Connecting and Exposing API Endpoint from SAP Cloud Integration-(Part 1) || Pre-requisites and Configuration](https://blogs.sap.com/2023/09/20/connecting-and-exposing-api-endpoint-from-sap-cloud-integration-part-1-everything-you-need-to-know-a-step-by-step-guide-pre-requisites-and-configuration/)
-
+* [API Import Utility for SAP API Management](https://github.com/SAP-samples/api-management-api-import-utility)
 * [Connecting and Exposing API Endpoint from SAP Cloud Integration-(Part 2) || Connect, Expose & Test API Endpoint](https://blogs.sap.com/2023/09/20/connecting-and-exposing-api-endpoint-from-sap-cloud-integration-part-2-connect-expose-test-api-endpoint/)
 
 * [Accessing On-Premise Systems through API Management](https://help.sap.com/docs/integration-suite/sap-integration-suite/on-premise-connectivity-plan)

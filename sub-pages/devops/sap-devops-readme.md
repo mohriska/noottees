@@ -957,3 +957,4 @@ Like the previous <i><b>build</b></i> and <i><b>test</b></i> stages, you could a
 
 - [Developing an effective CI/CD pipeline for frontend apps](https://blog.logrocket.com/best-practices-ci-cd-pipeline-frontend?mc_cid=10269772c4&mc_eid=aa10fa9f64)
 - [How to integrate Azure AD with SAP BTP, Cloud Foundry environment](https://community.sap.com/t5/technology-blogs-by-sap/how-to-integrate-azure-ad-with-sap-btp-cloud-foundry-environment/ba-p/13398216)
+* [IN180 - Leveraging Commands from “Piper” for CI/CD Setup with SAP Integration Suite](https://github.com/SAP-archive/teched2022-IN180)

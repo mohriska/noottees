@@ -15,3 +15,5 @@
 * [SAP Cloud Identity Service - Configure Identity Authentication for Real-Time Provisioning](https://help.sap.com/docs/cloud-identity-services/cloud-identity-services/configure-identity-provisioning-target-systems-for-real-time-user-provisioning)
 * [SAP Cloud Identity Access Governance (IAG) integration with Identity Authentication Service (IAS)](https://community.sap.com/t5/technology-blogs-by-sap/sap-cloud-identity-access-governance-iag-integration-with-identity/ba-p/13562764)
 * [Configuring Principal Propagation](https://help.sap.com/docs/connectivity/sap-btp-connectivity-cf/configuring-principal-propagation)
+* [Global User ID in Integration Scenarios](https://help.sap.com/docs/cloud-identity/system-integration-guide/global-user-id-in-integration-scenarios)
+* [Integrating the Service with SAP Task Center](https://help.sap.com/docs/cloud-identity-services/cloud-identity-services/integrating-service-with-sap-task-center)

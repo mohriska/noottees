@@ -34,3 +34,4 @@
 * [Getting an Overview of SAP Fiori Elements for OData V4](https://learning.sap.com/learning-journeys/getting-started-with-creating-an-sap-fiori-elements-app-based-on-an-odata-v4-rap-service/using-sap-fiori-elements-get-to-know-the-benefits)
 * [Developing SAP Fiori Element application by using SAP Cloud Application Programming Model](https://community.sap.com/t5/technology-blogs-by-members/developing-sap-fiori-element-application-by-using-sap-cloud-application/ba-p/13574870)
 * [Guides and Tutorials for ABAP AS, Developer Edition](https://community.sap.com/t5/technology-blogs-by-sap/guides-and-tutorials-for-abap-as-developer-edition/ba-p/13270493)
+* [DEV160 - Scale Application Development with SAPUI5](https://github.com/SAP-archive/teched2021-DEV160?tab=readme-ov-file)
