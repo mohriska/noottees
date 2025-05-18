@@ -35,3 +35,9 @@
 * [Integration Suite - Provisioning and Upgrading a Free Tier Tenant](https://community.sap.com/t5/technology-blogs-by-sap/integration-suite-provisioning-and-upgrading-a-free-tier-tenant/ba-p/13501860)
 
 * [BTP Multi Cloud](https://www.youtube.com/@rakiative)
+
+* [Beyond SAP Cloud - Episode 19: BTP Directory and Sub Account naming conventions](https://community.sap.com/t5/technology-blogs-by-members/beyond-sap-cloud-episode-19-btp-directory-and-sub-account-naming/ba-p/14084883)
+
+* [Get an Account on SAP BTP to Try Out Free Tier Service Plans](https://developers.sap.com/tutorials/btp-free-tier-account.html)
+
+* []()

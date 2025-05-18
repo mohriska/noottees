@@ -52,5 +52,10 @@ Information published on SAP site
 * [SAP HTTP Calls and URI Components](https://help.sap.com/docs/integration-suite/sap-integration-suite/http-calls-and-uri-components)
 * [Automating Message Retries in SAP CPI with the Data Store Channel](https://community.sap.com/t5/technology-blogs-by-members/automating-message-retries-in-sap-cpi-with-the-data-store-channel/ba-p/14024305)
 * [IN264 - Combine SAP Integration Suite and SAP Build Process Automation in HR](https://github.com/SAP-samples/teched2023-IN264)
+* [SAP CPI - From Postman to OData as a Receiver iFlow](https://community.sap.com/t5/technology-blogs-by-members/sap-cpi-from-postman-to-odata-as-a-receiver-iflow/ba-p/13578591)
+* [Master iFlow SAP CPI Development Complete Course](https://www.youtube.com/watch?v=M4qjKTd-gok)
 ### Idocs
 * [S/4HANA iDoc integration with SCP Integration Suite](https://www.youtube.com/watch?v=5gRrGQxHwqU)
+* [Configure the Mail Receiver Adapter](https://help.sap.com/docs/integration-suite/sap-integration-suite/configure-mail-receiver-adapter)
+* [Deploying a User Credentials Artifact](https://help.sap.com/docs/integration-suite/sap-integration-suite/deploying-user-credentials-artifact)
+* [SAP Integration Suite - IMAP and SMTP connection to Gmail with OAuth2 Authorization Code](https://community.sap.com/t5/technology-blogs-by-members/sap-integration-suite-imap-and-smtp-connection-to-gmail-with-oauth2/ba-p/13891651)
